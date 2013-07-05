@@ -1,2 +1,2 @@
-euopass
+europass
 =======
